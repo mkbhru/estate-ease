@@ -1,4 +1,7 @@
 # Real Estate NFT DApp
+## project flow
+![image](https://github.com/mkbhru/estate-ease/assets/74449664/1ec629ae-0769-44db-93ec-3239fa81f0f4)
+![image](https://github.com/mkbhru/estate-ease/assets/74449664/c55b3a81-3360-4edc-97dd-d32aa433a2a6)
 
 ## Technology Stack & Tools
 
