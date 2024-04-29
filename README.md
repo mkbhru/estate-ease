@@ -59,6 +59,13 @@ My project is basically utilizing already written open source contracts from ope
 in contracts folder we have our Escrow and RealEstate contracts. <br />
 in test folder we have our tests build using hardhat the file escrow.js contains all the tests.
 
+## Testing Procedure
+we can test our smart contract locally by Hardhat using command 
+```npx hardhat node```
+it'll start a local hardhat blockchain on our computer, it'll give us 20 accounts with fake ether in them
+
+Now simultaneously run ```npx hardhat run scripts/deploy.js --network localhost```
+and nfts would mint and get listed on bc
 
 ## Technology Stack & Tools
 
