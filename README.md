@@ -4,7 +4,13 @@
 ![image](https://github.com/mkbhru/estate-ease/assets/74449664/1ec629ae-0769-44db-93ec-3239fa81f0f4)
 ![image](https://github.com/mkbhru/estate-ease/assets/74449664/c55b3a81-3360-4edc-97dd-d32aa433a2a6)
 
-
+## live deployment Screenshots
+site  homepage
+![image](https://github.com/mkbhru/estate-ease/assets/74449664/bd029b56-ffeb-45f2-b37b-d1d9c09fa9d1)
+metamask wallet with hardhat accounts
+![image](https://github.com/mkbhru/estate-ease/assets/74449664/a04632f8-8515-4bc2-af85-21f977d4b407)
+property after sold to buyer #0 after inspection by #2, approved by lender #3 and finally approved by seller #1
+![image](https://github.com/mkbhru/estate-ease/assets/74449664/98ad6199-fdb5-43dc-981e-639d646d8c92)
 
 ## Project Structure
 
